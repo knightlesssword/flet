@@ -25,5 +25,5 @@ Random - Generates a random integer using `random` package between -10000 and 10
 Unable to count using letters and special characters! :(
 ## Screenshots
 
-![In use](/working.jpg)
+![In use](https://github.com/knightlesssword/flet/blob/main/simple_counter/working.jpg)
 
