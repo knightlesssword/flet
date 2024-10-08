@@ -18,12 +18,12 @@ Welcome to Random Password Generator built using Flet with 🐍 Python! This app
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/random-password-generator.git
+git clone https://github.com/knightlesssword/flet.git
 ```
 Navigate to the project directory:
 
 ```bash
-cd random-password-generator
+cd RandomPassword
 ```
 ### Install dependencies:
 
